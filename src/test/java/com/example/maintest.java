@@ -16,4 +16,5 @@ public class maintest {
     public void testGreet() {
         assertEquals("Hello, Jenkins!", main.greet());
     }
+}
 
